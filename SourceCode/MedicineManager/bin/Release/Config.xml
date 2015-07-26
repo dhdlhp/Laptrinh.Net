@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <ServerName>HAITX-PC</ServerName>
+    <Database>MedicineManager</Database>
+    <UserName>sa</UserName>
+    <PassWord>sa</PassWord>
+  </Table1>
+</NewDataSet>

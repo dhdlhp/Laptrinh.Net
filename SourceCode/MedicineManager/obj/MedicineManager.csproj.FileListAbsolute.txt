@@ -1,0 +1,254 @@
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Test.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Test.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\ListViewEx.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Debug\NumericTextBox.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\ListViewEx.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\bin\Release\NumericTextBox.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Report.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.application
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Report.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Test.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Release\ListViewEx.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Report.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Test.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\bin\Debug\ListViewEx.dll
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Report.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Test.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_DaGhep\MedicineManager\MedicineManager\obj\Debug\MedicineManager.application
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.application
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\bin\Debug\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.ReportDonThuoc.rpt
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.CreateConnectionDB.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Login.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.QuanLy.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Report.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SellMedicine.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SuLyInDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Test.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Properties.Resources.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.RPTDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.csproj.GenerateResource.Cache
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager\MedicineManager\MedicineManager\obj\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\bin\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\bin\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Report.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Test.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProj\MedicineManager\MedicineManager_04122009\MedicineManager\MedicineManager\obj\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Debug\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Debug\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Debug\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\bin\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager_DaTest\MedicineManager\MedicineManager\obj\Release\MedicineManager.application
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.application
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.exe
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.pdb
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.exe.manifest
+D:\Hoc Tap\San Pham\MedicineManager_moi\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.application
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.exe
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\bin\Release\MedicineManager.pdb
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\ResolveAssemblyReference.cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Reports.ReportDonThuoc.rpt
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ChiTietThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.CreateConnectionDB.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.Login.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.QuanLy.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.SellMedicine.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.Them_Sua_BenhNhan.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.ViewChiTietHoaDonNhap.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.GUI.SuLyInDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Properties.Resources.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.Reports.RPTDonThuoc.resources
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.csproj.GenerateResource.Cache
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.exe.manifest
+E:\Study - Research\Software Engineering\FPT Aptech Computer Education\Semester3\Windows Forms with Csharp\MyProjects\MedicineManager\SourceCode\MedicineManager\obj\Release\MedicineManager.application

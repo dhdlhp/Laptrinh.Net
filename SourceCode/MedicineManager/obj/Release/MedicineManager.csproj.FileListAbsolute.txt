@@ -1,0 +1,2 @@
+D:\Working\Do an C#\MedicineManager_congthuong.net\SourceCode\MedicineManager\obj\Release\MedicineManager.exe
+D:\Working\Do an C#\MedicineManager_congthuong.net\SourceCode\MedicineManager\obj\Release\MedicineManager.pdb
